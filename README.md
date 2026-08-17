@@ -75,3 +75,5 @@ Cairo, Egypt (UTC+3) · Arabic (native) · English (conversational)
 <!-- FILL: email address -->
 
 <p align="center"><sub>Available for remote and freelance work in Python automation and AI integration.</sub></p>
+
+<!-- Profile README for github.com/Mohaned-Fozy-Ai -->
