@@ -60,10 +60,15 @@ reading a line of code.
 
 ## Certifications
 
-<!-- FILL: add each certificate as you earn it, with its public verification link.
-     Planned, in order: HackerRank Python (Basic) · Kaggle Python · Kaggle Pandas ·
-     Cisco NetAcad Python Essentials 1 · Cisco Introduction to Modern AI ·
-     Hugging Face AI Agents · IBM SkillsBuild Python. -->
+In progress. Each credential will be listed here with its public verification link as
+it is earned, in this order: HackerRank Python (Basic), Kaggle Python, Kaggle Pandas,
+Cisco Networking Academy Python Essentials 1, Cisco Introduction to Modern AI,
+Hugging Face AI Agents, IBM SkillsBuild Python for Data Science.
+
+<!-- FILL: replace the paragraph above with a table of earned certificates:
+     | Credential | Issuer | Verify |
+     Keep the verification URL in every row - a credential without a public link
+     is not worth listing. -->
 
 ---
 
@@ -71,8 +76,8 @@ reading a line of code.
 
 Cairo, Egypt (UTC+3) · Arabic (native) · English (conversational)
 
-<!-- FILL: LinkedIn URL -->
-<!-- FILL: email address -->
+<!-- FILL: LinkedIn profile URL - add as a markdown link once the profile is live -->
+<!-- FILL: contact email, if you want clients to reach you directly -->
 
 <p align="center"><sub>Available for remote and freelance work in Python automation and AI integration.</sub></p>
 
