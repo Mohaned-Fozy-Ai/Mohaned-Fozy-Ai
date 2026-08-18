@@ -76,7 +76,7 @@ Hugging Face AI Agents, IBM SkillsBuild Python for Data Science.
 
 Cairo, Egypt (UTC+3) · Arabic (native) · English (conversational)
 
-<!-- FILL: LinkedIn profile URL - add as a markdown link once the profile is live -->
+[LinkedIn](https://www.linkedin.com/in/mohaned-fozy-automation)
 <!-- FILL: contact email, if you want clients to reach you directly -->
 
 <p align="center"><sub>Available for remote and freelance work in Python automation and AI integration.</sub></p>
